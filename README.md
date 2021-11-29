@@ -2,7 +2,7 @@
 
 ## Overview
 
-While enjoying my pineapple flavored ice cream cone, I fondly recalled my vacation to Oahu where I discovered my passion for the waves. How sweet would it be to surf every day? So, I thought to myself, why not make this a reality? What if I could enjoy both of my indulgences by opening up an ice cream shop in Hawaii? So, I reached out to a fellow surfing enthusiast who could be a potential investor. While he appreciated my excitement, he warned me of how he had a similar idea of opening a surf shop to sustain is surfing lifestyle, however this venture failed due to Hawaii's weather cycle. The rainfall killed his surfing shop dream. So, he suggested that I do a little research to see just how viable it is to have an ice cream shop year round to sell him on the idea of investing with me. 
+While enjoying my pineapple flavored ice cream cone, I fondly recalled my vacation to Oahu where I discovered my passion for the waves. How sweet would it be to surf every day? So, I thought to myself, why not make this a reality? What if I could enjoy both of my indulgences by opening up an ice cream shop in Hawaii? So, I reached out to a fellow surfing enthusiast who could be a potential investor. While he appreciated my excitement, he warned me of how he had a similar idea of opening a surf shop to sustain is surfing lifestyle, however this venture failed due to Hawaii's weather cycle. The rainfall killed his surfing shop dream. So, he suggested that I do a little research to see just how viable it is to have an ice cream shop year round. If he liked the results, he would take that back to his board of directors to sell them on the idea of investing with me. 
 
 So, I put my newfound data analytic skills and tools to work. 
 
