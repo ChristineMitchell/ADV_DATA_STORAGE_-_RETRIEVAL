@@ -16,7 +16,11 @@ As we agreed, I pulled the temperature data statistics for the polar opposite mo
 
 ![Temp Comparisons](https://user-images.githubusercontent.com/82008319/143792697-3894db45-05e5-4f76-91f9-c248da25e9c2.png)
 
-While there were 11% fewer temperation observations recorded in December than June, the average temperature in December is 71&deg;F, while it is 75&deg;F in June. That is an approximate 5% decrease, only equating to a 4&deg; difference between the two opposite months. The minimum temperature has the greatest difference of 8&deg;, equating to a 12.5% reduction from June to December. Overall, this data reflects in my favor that there will be a strong demand for ice cream year round.
+* While there were 11% fewer temperation observations recorded in December than June, the average temperature in December is 71&deg;F, while it is 75&deg;F in June. That is an approximate 5% decrease, only equating to a 4&deg; difference between the two opposite months. Overall, the minimal temperature difference between the months supports our theory that there would be a demand for ice cream throughout the year.
+* There is a greater temperature range in December, 27&deg; compared to June's 20&deg;. This can be reinforced by the fact that minimum temperature has the greatest difference of 8&deg;, equating to a 12.5% reduction from June to December. This spread can be accounted by fewer sunlight hours in the winter months compared to the summer months as well as a more temperature swings in December.
+* With less than a half degree difference in our standard deviation (3.26 in June and 3.75 in Dec), we can feel confident that our data set is a good indicator of what to expect in the future and that our ice cream shop will be viable year round.
+
+
 
 
 
